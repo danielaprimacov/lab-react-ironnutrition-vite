@@ -40,3 +40,25 @@
 .read-the-docs {
   color: #888;
 }
+
+/* .food {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.food img {
+  width: 200px;
+}
+
+.foodForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.foodForm input {
+  width: 300px;
+} */
